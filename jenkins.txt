@@ -1,1 +1,2 @@
-Welcome to Jenkins 
+Welcome to Jenkins version 1.0
+java 1.8.1
